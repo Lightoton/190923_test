@@ -1,2 +1,5 @@
 # 190923_test
-Julia Miller
+- Julia Miller
+- Pashora Olga
+- Natali Ol
+- Andrei Bakhtinov

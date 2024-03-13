@@ -1,2 +1,4 @@
 # 190923_test
--Pashora Olga
+- Pashora Olga
+- Natali Ol
+- Andrei Bakhtinov

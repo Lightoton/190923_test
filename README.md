@@ -1,2 +1,3 @@
 # 190923_test
-Natali Ol
+- Natali Ol
+- Andrei Bakhtinov
